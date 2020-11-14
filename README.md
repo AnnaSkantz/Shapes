@@ -10,7 +10,7 @@ Shapes is an interactive multiplayer game that values teamwork. Work together to
 ### Key features
 
 - 🎮 Intuitive gameplay
-- 🧩 Solve the puzzeling challenges together
+- 🧩 Solve the puzzeling challenge together
 - 🏆 Achieve your goals and win the trophy!
 
 ## Installation
