@@ -3,6 +3,9 @@
 [![platform = web](https://img.shields.io/badge/platform-web-13f27c.svg)](#)
 [![language = javascript](https://img.shields.io/badge/language-javascript-ff45e6.svg)](#)
 
+[![shapes banner](/shapes.png?raw=true)](#)
+
+
 ## About
 
 Shapes is an interactive multiplayer game that values teamwork. Work together to reach the destination to complete the game.
